@@ -43,14 +43,14 @@ pip install -r requirements.txt
 The bot needs administrator rights so the `keyboard` library can read the `F8` / `F9` hotkeys.
 
 1. Open the Start menu, type `cmd`, right-click **Command Prompt** and choose **Run as administrator**.
-2. Go to the folder that contains `afk_bot.py` then righ click and **Copy as path**. Use `cd /d + paste the path`
+2. Go to the folder that contains `afk_bot.py` then righ click and **Copy as path**. Use `cd /d + paste the path`.
 The path might be:
 
    ```
    cd /d "C:\path\to\the\folder\with\afk_bot.py"
    ```
 
-3. Start the game, put it in windowed mode, and open the map you want to run.
+3. Start the game, put it in windowed mode and 1280x768 resolution, and open the map you want to run.
 4. Run the bot:
 
    ```
